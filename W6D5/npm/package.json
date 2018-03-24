@@ -1,8 +1,8 @@
 {
-  "name": "solution",
+  "name": "npm",
   "version": "1.0.0",
-  "description": "This homework covers configuration of a new React project. Download the skeleton [here][skeleton].",
-  "main": "index.jsx",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --watch"
@@ -12,11 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "package1": "0.0.0",
+    "package2": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "webpack": "^3.10.0"
+    "webpack": "^3.4.1"
   }
 }
