@@ -1,0 +1,1 @@
+function selectCurrency(baseCurrency, rates) {}
